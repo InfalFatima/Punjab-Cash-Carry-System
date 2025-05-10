@@ -1,0 +1,10 @@
+Manager manager@email.com Supervisor
+Alice alice@store.com Cashier
+Bob bob@store.com InventoryManager
+Charlie charlie@store.com Sales
+David david@store.com Supervisor
+Eve eve@store.com Accountant
+Frank frank@store.com Cashier
+Grace grace@store.com Supervisor
+Henry henry@store.com Stocker
+Ivy ivy@store.com Sales

@@ -1,0 +1,12 @@
+Milk Dairy 2.5 100 Nestle
+Bread Bakery 1.2 50 Dawn
+Eggs Dairy 0.2 200 Nestle
+Sugar Grocery 1.5 100 Mitchells
+Rice Grains 2.0 150 Guard
+Soap Toiletries 0.8 80 Lux
+Shampoo Toiletries 3.5 60 Dove
+Tea Beverages 4.0 90 Lipton
+Juice Beverages 2.8 70 Nestle
+Biscuits Snacks 1.0 120 PeekFreans
+CookingOil Grocery 3.2 60 Dalda
+Toothpaste Toiletries 1.5 100 Colgate
